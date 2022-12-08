@@ -1,2 +1,47 @@
 
 /* Your CSS Code here. */
+section{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#id1{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+#id2{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+#id3{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+#id4{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+#id5{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+#id6{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+#id7{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+#id8{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
